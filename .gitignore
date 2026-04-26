@@ -1,0 +1,24 @@
+#python
+__pycache__/
+*.pyc
+*.pyo
+gesture_env/
+.env
+
+#model binaries
+*.onnx
+*.onnx.data
+*.npy
+*.pkl
+
+#Data -  Raw IMU samples can be large
+raw_data/
+
+#Audio_temp
+*.wav
+# IDE
+.idea/
+.vscode/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
