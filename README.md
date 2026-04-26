@@ -66,7 +66,7 @@ python inference/inference_server.py
 | Classes | Samples/class | Val Accuracy |
 |---|---|---|
 | 2 (yes, no) | 40 | 100% |
-| 6 | 15 | 94% |
+
 
 ## We will expand vocabulary to 30-40 words in future.
 
